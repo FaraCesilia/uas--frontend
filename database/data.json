@@ -1,0 +1,139 @@
+{
+    "head":{
+        "logo" : "img/logo.png"
+    },
+    "banner":{
+        "judul" : "BWX OFFICIAL STORE",
+        "desc" : "BWX official Store adalah toko yang menyediakan berbagai macam clothing fashion yang trendy",
+        "button" : "shop now",
+        "url" : "https://shopee.co.id/bwx_store",
+        "img" : "img/img1.png"
+    },
+    "sec-1":{
+        "judul" : "BEST SELLER",
+        "product":[
+            {
+                "img1" : "img/img2.jpg",
+                "img2" : "img/overlay.jpg",
+                "harga" : "Rp 349.000",
+                "nama" : "VARSITY JACKET - Towel Embordiery, Cotton Twill Material, BASEBALL CHAMP Unisex Jacket",
+                "button" : "shop now",
+                "url" : "https://shopee.co.id/bwx_store"
+            },            
+            {
+                "img1" : "img/img3.jpg",
+                "img2" : "img/overlay.jpg",
+                "harga" : "Rp 339.000",
+                "nama" : "VARSITY JACKET - Cotton Fleece Gramasi, BASEBALL JACKET, NOcturnal Varsity jacket",
+                "button" : "shop now",
+                "url" : "https://shopee.co.id/bwx_store"
+            },
+            {
+                "img1" : "img/img4.jpg",
+                "img2" : "img/overlay.jpg",
+                "harga" : "Rp 360.000",
+                "nama" : "VARSITY JACKET -  Shining Bright State Champ Varsity - Green",
+                "button" : "shop now",
+                "url" : "https://shopee.co.id/bwx_store"
+            }
+
+        ]
+    },
+    "kategori" :{
+        "judul" : "CATEGORIES",
+        "produk" : [
+            {
+                "img" : "img/img5.jpg",
+                "text" : "HOODIE & SWEATTEAR",
+                "btn" : "View All"
+            },
+            {
+                "img" : "img/img6.jpg",
+                "text" : "T-SHIRT",
+                "btn" : "View All"
+            },
+            {
+                "img" : "img/img11.jpg",
+                "text" : "JACKET VARSITY, COACH",
+                "btn" : "View All"
+            }
+        ]
+    },
+    "produk":{
+        "judul" : "Our Product's",
+        "item" :[
+            {
+                "img" :"img/img5.jpg",
+                "desc" : "Hoodie Jumper WAKE UP ( Sablon Depan Belakang ) Size M-XXL - Pria & Wanita",
+                "harga" : "Rp 119.000",
+                "btn" : "shop now"
+            },
+            {
+                "img" :"img/img6.jpg",
+                "desc" : "Sweater Basic ENOUGH ( Sablon Depan Belakang ) Size M-XXL - Pria & Wanita",
+                "harga" : "Rp 99.000",
+                "btn" : "shop now"
+            },
+            {
+                "img" :"img/img7.jpg",
+                "desc" : "TSHIRT Kaos Depression ( Sablon Depan Belakang ) Cotton Combed 30S Unisex ",
+                "harga" : "Rp 64.999",
+                "btn" : "shop now"
+            },
+            {
+                "img" :"img/img8.jpg",
+                "desc" : "Hoddie Jumper YOS YUZU (Sablon) M -XXL (Pria & Wanita)",
+                "harga" : "Rp 119.000",
+                "btn" : "shop now"
+            },
+            {
+                "img" :"img/img9.jpg",
+                "desc" : "Sweater Basic FAKE NEWS ( Sablon Depan Belakang ) Size M-XXL - Pria & Wanita",
+                "harga" : "Rp 99.000",
+                "btn" : "shop now"
+            },
+            {
+                "img" :"img/img10.jpg",
+                "desc" : "Kaos Oversize Lengan Pendek LADY'S STAR ( Sablon Depan Belakang ) Size S-XXL ",
+                "harga" : "Rp 64.999",
+                "btn" : "shop now"
+            },
+            {
+                "btn":"View All"
+            }
+        ]
+    },
+    "serive":{
+        "judul" : "BWX Official Store",
+        "desc" :"Toko kami juga melayani berbagai macam custom desain dan kami memudahkan customer dalam bertransaksi, melalui :",
+        "fitur" :[
+            {
+                "img" : "img/icon1.png",
+                "text" : "Credit Card Support"
+            },
+            {
+                "img" : "img/icon2.png",
+                "text" : "Onlien Order",
+                "url" : "https://shopee.co.id/bwx_store"
+            },
+            {
+                "img" : "img/icon3.png",
+                "text" : "Free Delivary"
+            }
+        ]
+    },
+    "footer" :{
+        "logo" : "img/logo.png",
+        "social":[
+            {
+                "icon" : "fab fa-facebook"
+            },  
+            {
+                "icon" : "fab fa-instagram"
+            },  
+            {
+                "icon" : "fab fa-whatsapp"
+            } 
+        ]
+    }
+}
